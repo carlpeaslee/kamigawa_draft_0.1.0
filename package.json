@@ -1,0 +1,21 @@
+{
+  "name": "kami_draft_0.1.0",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node server/app.js"
+  },
+  "author": "carl peaslee",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "install": "^0.6.0",
+    "jquery": "^2.2.1",
+    "npm": "^3.8.1"
+  }
+}
